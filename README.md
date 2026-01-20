@@ -20,4 +20,4 @@ User Browser → Lambda Function URL → Lambda → HTML Response
 (Upload screenshots here)
 
 ## Author
-Mr. Paul
+Mr. Paul Lulami Wamenya
